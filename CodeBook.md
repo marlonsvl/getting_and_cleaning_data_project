@@ -16,8 +16,8 @@ The dataset is composed by 79 averaged signal measurments for each subject and a
 		An integer value that specifies the identifier of each subject. The range is: 1-30
 
 - `activity`
+		Type activity of each person, -String with 6 posibles values-:
 		
-		String with 6 posibles values:
 		- `WALKING`: subject was walking (value `1`)
 		- `WALKING_UPSTAIRS`: subject was walking upstairs (value `2`)
 		- `WALKING_DOWNSTAIRS`: subject was walking downstairs (value `3`)
